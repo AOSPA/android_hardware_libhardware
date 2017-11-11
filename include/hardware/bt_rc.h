@@ -488,7 +488,7 @@ typedef struct {
     ** With RelateVolume, we will send VOLUME_UP/VOLUME_DOWN opposed to absolute volume level
     ** volume: Should be in the range 0-127. bit7 is reseved and cannot be set
     */
-    bt_status_t (*set_volume)(uint8_t volume);
+    bt_status_t (*set_volume)(uint8_t volume, bt_bdaddr_t *bd_addr);
 
     /* Set addressed player response from TG to CT */
     bt_status_t (*set_addressed_player_rsp)(bt_bdaddr_t *bd_addr, btrc_status_t rsp_status);
