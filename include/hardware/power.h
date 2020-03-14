@@ -70,7 +70,7 @@ typedef enum {
 
 typedef enum {
     POWER_FEATURE_GESTURES = 0x00000001,
-    POWER_FEATURE_DOUBLE_TAP_TO_WAKE = 0x00000002,
+    POWER_FEATURE_DOUBLE_TAP = 0x00000002,
     POWER_FEATURE_DRAW_V = 0x00000003,
     POWER_FEATURE_DRAW_INVERSE_V = 0x00000004,
     POWER_FEATURE_DRAW_O = 0x00000005,
@@ -83,7 +83,8 @@ typedef enum {
     POWER_FEATURE_ONE_FINGER_SWIPE_DOWN = 0x0000000C,
     POWER_FEATURE_ONE_FINGER_SWIPE_LEFT = 0x0000000D,
     POWER_FEATURE_TWO_FINGER_SWIPE = 0x0000000E,
-    POWER_FEATURE_DRAW_S = 0x0000000F
+    POWER_FEATURE_DRAW_S = 0x0000000F,
+    POWER_FEATURE_SINGLE_TAP = 0x00000010
 } feature_t;
 
 /*
@@ -283,7 +284,7 @@ typedef struct power_module {
      * (*setFeature) is called to turn on or off a particular feature
      * depending on the state parameter. The possible features are:
      *
-     * FEATURE_DOUBLE_TAP_TO_WAKE
+     * FEATURE_DOUBLE_TAP
      *
      *    Enabling/Disabling this feature will allow/disallow the system
      *    to wake up by tapping the screen twice.
