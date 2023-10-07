@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0fbf8c11_a0d026f7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2023-10-07T05:12:25Z",
+      "side": 1,
+      "message": "can you squash the other amp commit in?",
+      "revId": "5ea29c8460aaa93bec485c9ef1b9d08bcd510f88",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
