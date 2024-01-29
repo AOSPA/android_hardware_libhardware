@@ -51,6 +51,24 @@
       "parentUuid": "1ed24d24_0eed17cf",
       "revId": "4da1aa0ef7e18b576dd834decf4aba54ad266238",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "15cf98fb_0ea83ddf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2024-01-29T18:57:30Z",
+      "side": 1,
+      "message": "also can you send your device tree?",
+      "parentUuid": "cf375753_e9c1ef14",
+      "revId": "4da1aa0ef7e18b576dd834decf4aba54ad266238",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
