@@ -16,6 +16,23 @@
       "message": "my understanding is that this hasn\u0027t been used in several years.  can you tell me why we need it?  guessing it may be in some legacy HALs?",
       "revId": "4da1aa0ef7e18b576dd834decf4aba54ad266238",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1ed24d24_0eed17cf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000970
+      },
+      "writtenOn": "2024-01-29T16:48:07Z",
+      "side": 1,
+      "message": "Without this I get an error in hal display 855-uvite saying this is missing",
+      "revId": "4da1aa0ef7e18b576dd834decf4aba54ad266238",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
