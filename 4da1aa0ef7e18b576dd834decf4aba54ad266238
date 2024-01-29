@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e6535273_9e478fce",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2024-01-29T16:05:37Z",
+      "side": 1,
+      "message": "my understanding is that this hasn\u0027t been used in several years.  can you tell me why we need it?  guessing it may be in some legacy HALs?",
+      "revId": "4da1aa0ef7e18b576dd834decf4aba54ad266238",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
