@@ -69,6 +69,23 @@
       "parentUuid": "cf375753_e9c1ef14",
       "revId": "4da1aa0ef7e18b576dd834decf4aba54ad266238",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6f5bb534_0d9520b6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000970
+      },
+      "writtenOn": "2024-01-29T19:37:31Z",
+      "side": 1,
+      "message": "yes I use display component, I will send you the dt and reproduce the error again",
+      "revId": "4da1aa0ef7e18b576dd834decf4aba54ad266238",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
