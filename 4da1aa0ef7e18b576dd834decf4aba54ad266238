@@ -33,6 +33,24 @@
       "message": "Without this I get an error in hal display 855-uvite saying this is missing",
       "revId": "4da1aa0ef7e18b576dd834decf4aba54ad266238",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cf375753_e9c1ef14",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2024-01-29T18:57:03Z",
+      "side": 1,
+      "message": "can you show me the error? that shouldn\u0027t happen.  do you use the display component?",
+      "parentUuid": "1ed24d24_0eed17cf",
+      "revId": "4da1aa0ef7e18b576dd834decf4aba54ad266238",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
