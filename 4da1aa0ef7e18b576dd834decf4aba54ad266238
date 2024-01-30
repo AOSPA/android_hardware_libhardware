@@ -120,6 +120,23 @@
       "message": "you can remove this line: https://github.com/liber-stuffs/device_motorola_liber/blob/uvite/BoardConfig.mk#L76\n\nhttps://github.com/AOSPA/android_hardware_qcom_display/blob/uvite-855/sdm/libs/hwc2/hwc_display.cpp#L46\n\nhttps://github.com/AOSPA/android_hardware_qcom_display/blob/uvite-855/common.mk#L17",
       "revId": "4da1aa0ef7e18b576dd834decf4aba54ad266238",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "51d6901d_00ba5baa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000970
+      },
+      "writtenOn": "2024-01-30T17:23:31Z",
+      "side": 1,
+      "message": "Oh! Thank you",
+      "revId": "4da1aa0ef7e18b576dd834decf4aba54ad266238",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
